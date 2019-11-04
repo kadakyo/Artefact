@@ -10,7 +10,8 @@ From my preliminary test, the pages could go unlimited, as long as we don't perf
 For instance, if you input "高大上", all records that include the word will emerge.
 ![](https://github.com/kadakyo/Artefact/blob/master/search.png)
 
-Question 2: Word Count and Median
+<b>Question 2: Word Count and Median</b>
 1. The two folders have been put, which contain the example poems.
 2. The run.sh shell script is the main file. As long as we run "chmod 777 run.sh", we can get the results by "/.run.sh"
 3. The two Python scripts work as auxiliary scripts.
+4. The poems in the file could be numerous.
